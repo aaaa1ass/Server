@@ -381,8 +381,10 @@
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
 "Assets/Scripts/ConnectServer.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Information.cs"
 "Assets/Scripts/NotificationManager.cs"
+"Assets/Scripts/PhotonPlayer.cs"
 "Assets/Scripts/PhotonSetting.cs"
 "Assets/Scripts/RoomManager.cs"
 -langversion:9.0

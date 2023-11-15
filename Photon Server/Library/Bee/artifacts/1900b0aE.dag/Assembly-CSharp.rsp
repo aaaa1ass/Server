@@ -380,6 +380,7 @@
 "Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
+"Assets/Scripts/ChatManager.cs"
 "Assets/Scripts/ConnectServer.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Information.cs"

@@ -12,7 +12,7 @@ public class ConnectServer : MonoBehaviourPunCallbacks
 
     private void Awake()
     {
-        server.options[0].text = "Onion";
+        server.options[0].text = "Union";
         server.options[1].text = "Weather";
         server.options[2].text = "Solo";
     }
